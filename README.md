@@ -1,6 +1,7 @@
 <div align=center>
-![slice](https://capsule-render.vercel.app/api?type=slice&color=#706759&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
-
+<!-- 상단 헤더 배너 -->
+![slice](https://capsule-render.vercel.app/api?type=slice&color=#706759&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70&descAlignY=44)
+  
 ## Introduction 🙌
 
 안녕하세요! 사용자의 경험을 가치 있게 만드는 **QA 엔지니어**이자 **PM**을 꿈꾸는 탁희선입니다.
