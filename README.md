@@ -29,6 +29,5 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takiiio&layout=compact&hide_border=true&bg_color=00000000" alt="Top Langs" />
 <br><br>
 </div>
