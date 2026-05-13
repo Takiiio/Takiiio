@@ -4,7 +4,7 @@
   
 ## Introduction 🙌
 
-안녕하세요! 사용자의 경험을 가치 있게 만드는 **QA 엔지니어**이자 **PM**을 꿈꾸는 탁희선입니다.
+안녕하세요! 사용자의 경험을 가치 있게 만드는 **QA 엔지니어**이자 **PM**을 꿈꾸는 탁희선입니다.<br>
 컴퓨터공학을 전공하며 기술적 이해도를 쌓고 있습니다.
 
 <br>
@@ -29,5 +29,8 @@
 <br>
 <br>
 
-## About me ✨
+<a href='https://grafana.com/'>![js](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)</a>
+![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
