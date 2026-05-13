@@ -1,6 +1,6 @@
 <div align=center>
 <!-- 상단 헤더 배너 -->
-![slice](https://capsule-render.vercel.app/api?type=slice&color=#706759&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70&descAlignY=44)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Takkiiio's%20GitHub&fontSize=42" />
   
 ## Introduction 🙌
 
