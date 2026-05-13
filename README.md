@@ -1,6 +1,6 @@
 <div align=center>
 <!-- 상단 헤더 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Takkiiio's%20GitHub&fontSize=42" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Takiiio's%20GitHub&fontSize=42" />
   
 ## Introduction 🙌
 
